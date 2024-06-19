@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany.app</groupId>
-	<artifactId>hello-world-war</artifactId>
-	<version>1.0.0-${env.BUILD_NUMBER}</version>
+	<artifactId>Hello Naveen</artifactId>
+	<version>1.0.0</version>
 	<packaging>war</packaging>
-	<name>Hello World Web Application Repository</name>
+	<name>Hello Naveen</name>
 	<description>Simplest possible Java Webapp</description>
     <properties>
         <maven.compiler.source>1.6</maven.compiler.source>
